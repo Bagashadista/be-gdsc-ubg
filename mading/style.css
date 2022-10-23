@@ -1,0 +1,39 @@
+.kotak{
+    display: flex;
+    margin-top: -22px;
+    text-align: center;
+    height: 590px;
+    width: 1350px;
+    background-color: green;
+}
+
+h1{
+    text-align: center;
+}
+.gawang{
+    margin-top: 129px;
+    width: 100px;
+    height: 300px;
+    background-color: white;
+}
+.hijau{
+    margin-top: 8px;
+    width: 93px;
+    height: 284px;
+    background-color: green;
+}
+.gawang2{
+    margin-left: 1151px;
+    margin-top: 129px;
+    width: 100px;
+    height: 300px;
+    background-color: white;
+}
+.hijau2{
+    margin-left: 8px;
+    margin-top: 8px;
+    width: 93px;
+    height: 284px;
+    background-color: green;
+}
+
